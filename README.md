@@ -10,5 +10,11 @@ After doing this project i loved haskell. I enjoy the language !
 ## The future : 
 I'm moving to fedora. I propebly won't update these dots anymore!! I shall still try.
 
+## Neovim configs : 
+https://github.com/NvChad/NvChad
+
+### Why didn't i include dotfiles?
+> I don't use neovim, i like VI more. Less configuration. Faster load time. Better Keybindings. Yet, i only took a picture of it because it looks good. i would never use this myself. Its just made for looks, not development.
+
 ## What about the installer ? 
 I will learn bash in order to make the best out of the installer. It will come very soon!
