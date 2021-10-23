@@ -1,0 +1,2 @@
+# dots
+[Nord] XMonad dotfiles !
