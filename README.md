@@ -8,7 +8,8 @@ I wanted to share my dotfiles which i have been working on for some time ! These
 After doing this project i loved haskell. I enjoy the language !
 
 ## The future : 
-I'm moving to fedora. I propebly won't update these dots anymore!! I shall still try.
+> I'm moving to fedora. I propebly won't update these dots anymore!! I shall still try.
+Woops! I installed Arco to do the dirty work for me :) I shall now work on this project once more, AND work on the installer!
 
 ## Neovim configs : 
 https://github.com/NvChad/NvChad
